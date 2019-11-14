@@ -5,8 +5,8 @@
 int main()
 {
 	srand(time(NULL));
-	int P = 0,U = 20;		/*Rango para generar coordenadas*/
-	int n = 10;			/*Numero de puntos*/
+	int P = 0,U = 50;		/*Rango para generar coordenadas*/
+	int n = 50;			/*Numero de puntos*/
 	int x,y;				/*Coordenadas*/
 	int i;					/*Indice*/
 	printf("%d\n",n);

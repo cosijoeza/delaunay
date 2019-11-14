@@ -40,7 +40,6 @@ int main()
 				}
 				if(flag)
 					{printf("%d\t%d\t%d\n",i,j,k);}
-
 			}
 		}
 	}
